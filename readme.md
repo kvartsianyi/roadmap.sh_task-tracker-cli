@@ -4,6 +4,17 @@ Task tracker is a project used to track and manage your tasks.
 
 **Requirements:** https://roadmap.sh/projects/task-tracker
 
+## Getting started
+**1. Clone project**
+```
+git clone https://github.com/kvartsianyi/roadmap.sh_task-tracker-cli.git
+```
+
+**2. Link package directly from the project folder**
+```
+cd ./task-tracker-cli
+npm link
+```
 
 ## Commands
 
