@@ -2,7 +2,7 @@
 
 import { commandService } from './services/command.service.js';
 import { TASK_STATUSES, CLI_COMMANDS } from './constants/common.constants.js';
-import { log, } from './utils.js';
+import { log } from './utils.js';
 
 const args = process.argv.slice(2);
 const [command] = args;
